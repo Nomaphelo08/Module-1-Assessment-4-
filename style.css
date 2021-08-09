@@ -1,0 +1,18 @@
+table{
+    font-family: helvectica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: blue;    
+}
+
+h1{
+    font-family: impact,fantasy;
+    font-style: solid;
+    color:navy;
+}
+th{
+    font-weight: 800;
+    background-color: cornflowerblue;
+    color:navy;
+}
